@@ -1,5 +1,5 @@
 # SCM004
-SCM0004: Regeneration of Spekboom Thicket - Social Carbon
+SCM0004: Regeneration of Spekboom Thicket - Social Carbon | https://www.socialcarbon.org/scm0004
 Code to the included pdf file: 
 
 Sampling Methods and Carbon Flux Models for Spekboom Restoration Projects: Towards a Carbon Accounting Methodology.
